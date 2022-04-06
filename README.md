@@ -1,6 +1,6 @@
 # DL_DA
 
-This is the code for the scientific report "Deep learning data augmentation for Raman spectroscopy cancer tissue classifcation".
+This is the code for the scientific report "Deep learning data augmentation for Raman spectroscopy cancer tissue classifcation". Since the dataset is private, we do not make it public.
 
 1. pytorch
 2. tensorflow
